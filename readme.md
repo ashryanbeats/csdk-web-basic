@@ -2,8 +2,10 @@
 
 This is a basic example of using the Creative SDK for web.
 
-For an example using jQuery, [see this repo](https://github.com/ashryanbeats/csdk-web-jquery).
+Other examples:
 
+- For an example using jQuery, [see this repo](https://github.com/ashryanbeats/csdk-web-jquery).
+- For an example using Angular and MEAN stack, [see this repo](https://github.com/ashryanbeats/csdk-mean).
 
 ## Running this repo locally
 
