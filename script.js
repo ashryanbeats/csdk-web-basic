@@ -1,5 +1,5 @@
 var featherEditor = new Aviary.Feather({
-    apiKey: '1234567',
+    apiKey: '<YOUR_KEY_HERE>',
     onSave: function(imageID, newURL) {
         var img = document.getElementById(imageID);
         img.src = newURL;
